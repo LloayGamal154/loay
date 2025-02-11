@@ -1,0 +1,32 @@
+h1
+{
+    font-size:6ch;
+text-align:center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+header {
+    background-color:#8294cf;
+    color: black
+    height:100px;
+    font-size:24px;
+    margin-top:-3rem;
+}
+img
+{
+width: 700px;
+margin-left: auto;
+}
+body{
+    background-color: #96abf0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+a
+{
+    margin-left: 2rem;
+}
+ .ff{
+    margin-left: 18.5rem;
+ }
+ p
+ {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
